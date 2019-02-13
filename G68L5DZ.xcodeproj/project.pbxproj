@@ -12,6 +12,7 @@
 		84A652EB22145E8B0081F33F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A652E922145E8B0081F33F /* Main.storyboard */; };
 		84A652ED22145E8D0081F33F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A652EC22145E8D0081F33F /* Assets.xcassets */; };
 		84A652F022145E8D0081F33F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A652EE22145E8D0081F33F /* LaunchScreen.storyboard */; };
+		84A652F822145EC10081F33F /* CoffeeMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A652F722145EC10081F33F /* CoffeeMachine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		84A652EC22145E8D0081F33F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84A652EF22145E8D0081F33F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84A652F122145E8D0081F33F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84A652F722145EC10081F33F /* CoffeeMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeMachine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				84A652E522145E8B0081F33F /* AppDelegate.swift */,
 				84A652E722145E8B0081F33F /* ViewController.swift */,
 				84A652E922145E8B0081F33F /* Main.storyboard */,
+				84A652F722145EC10081F33F /* CoffeeMachine.swift */,
 				84A652EC22145E8D0081F33F /* Assets.xcassets */,
 				84A652EE22145E8D0081F33F /* LaunchScreen.storyboard */,
 				84A652F122145E8D0081F33F /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				84A652E822145E8B0081F33F /* ViewController.swift in Sources */,
 				84A652E622145E8B0081F33F /* AppDelegate.swift in Sources */,
+				84A652F822145EC10081F33F /* CoffeeMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
